@@ -20,7 +20,7 @@ El detalle se abre en un modal y sus municipios se cargan al seleccionarlo
 <img width="572" height="615" alt="image" src="https://github.com/user-attachments/assets/d1e9ec87-ba76-4bd0-913d-3379450d8233" />
 
 
- denominé Explora Colombia
+Lo denominé Explora Colombia
 
 Se desarrolla con React + Vite permite explorar información de los departamentos de Colombia consumiendo datos desde la API pública API Colombia.
 
@@ -122,3 +122,6 @@ Estudiante de Desarrollo de Software
 
 
 Este proyecto fue desarrollado con fines académicos y educativos.
+
+se sube a vercel por comodidad de ejecucion y visualizacion.
+
