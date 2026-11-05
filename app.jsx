@@ -273,7 +273,7 @@ function App() {
       </header>
 
       <main>
-        <section className="hero" id="sobre-colombia">
+        <section className="hero">
           <div className="hero-copy">
             <span className="eyebrow"><span className="eyebrow-line" /> UNA TIERRA, MUCHAS FORMAS DE SENTIR</span>
             <h1>Colombia se<br />descubre <em>paso a paso.</em></h1>
@@ -298,6 +298,38 @@ function App() {
             <span>UN PAÍS PARA SENTIRLO TODO</span>
             <span className="scroll-cue">DESLIZA PARA EXPLORAR <span>↓</span></span>
           </div>
+        </section>
+
+        <section aria-labelledby="about-title" className="about-section" id="sobre-colombia">
+          <div className="about-heading">
+            <span className="section-eyebrow">MÁS QUE UN DESTINO</span>
+            <h2 id="about-title">Un país que lo tiene todo.</h2>
+            <p>
+              Entre dos océanos, tres cordilleras y una biodiversidad extraordinaria,
+              Colombia reúne mundos distintos en un solo lugar. Cada departamento
+              tiene su propio paisaje, acento y manera de recibirte.
+            </p>
+          </div>
+          <div className="about-highlights">
+            <article className="about-highlight">
+              <span className="about-highlight-number">01</span>
+              <h3>Seis regiones, infinitos paisajes</h3>
+              <p>Caribe, Pacífico, Andes, Orinoquía, Amazonía e Insular: cada región te invita a vivir el país de una forma diferente.</p>
+            </article>
+            <article className="about-highlight">
+              <span className="about-highlight-number">02</span>
+              <h3>La diversidad está en los detalles</h3>
+              <p>Recorre las ciudades y municipios para conocer mejor la cultura, la geografía y las historias de cada departamento.</p>
+            </article>
+            <article className="about-highlight">
+              <span className="about-highlight-number">03</span>
+              <h3>Tu próxima historia empieza aquí</h3>
+              <p>Busca un lugar que te llame la atención y déjate sorprender por todo lo que tiene para descubrir.</p>
+            </article>
+          </div>
+          <a className="about-cta" href="#departamentos">
+            Encuentra tu próximo destino <span><ArrowIcon /></span>
+          </a>
         </section>
 
         <section className="explorer-section" id="departamentos">
