@@ -231,7 +231,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
   .card-stats small { font-size: 8px; }
   .site-footer { min-height: 76px; padding: 0 22px; }
   .site-footer > span:nth-child(2) { display: none; }
-  .site-footer > span:last-child { font-size: 7px; }
+  .site-footer > span:last-child { max-width: 46%; font-size: 7px; letter-spacing: 0; text-align: right; }
   .modal-backdrop { padding: 10px; }
   .detail-modal { max-height: calc(100vh - 20px); }
   .modal-banner { height: 165px; padding: 27px 23px; }

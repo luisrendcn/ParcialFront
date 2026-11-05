@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
@@ -382,7 +382,7 @@ function App() {
             <span>explora<span className="brand-highlight">.</span></span>
           </a>
           <span>Hecho para perderse un poquito y encontrarse mucho.</span>
-          <span>COLOMBIA, 2025</span>
+          <span>&copy; 2024 Explora Colombia. Hecho por Luis Rendcn para el curso de frontend 😁.</span>
         </footer>
       </main>
       {selectedDepartment && <DepartmentModal department={selectedDepartment} onClose={closeModal} />}
