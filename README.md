@@ -125,5 +125,6 @@ Este proyecto fue desarrollado con fines académicos y educativos.
 
 se sube a vercel por comodidad de ejecucion y visualizacion.
 <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/33accf80-6719-4b73-9c2e-2691f361af26" />
+https://github.com/user-attachments/assets/33accf80-6719-4b73-9c2e-2691f361af26
 
 
