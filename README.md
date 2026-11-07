@@ -107,15 +107,15 @@ Diseño responsivo.
 Organización modular del código.
 Evidencias
 
-Se recomienda incluir capturas de pantalla de:
+Se incluyen capturas de pantalla de:
 
 Vista principal.
 Filtro de búsqueda funcionando.
 Modal o Card expandida.
 Visualización de ciudades.
-Autor
 
-Luis Rendón
+
+
 
 Estudiante de Desarrollo de Software
  Universidad Católica Luis Amigó
